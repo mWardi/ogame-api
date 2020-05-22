@@ -21,5 +21,6 @@
 
 #Ignore installation/output files
 node_modules
-out
+!out
 .vscode
+.idea
